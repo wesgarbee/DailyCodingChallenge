@@ -26,7 +26,6 @@ namespace Daily_One_Easy
                     }
                 }
             }
-
             return false;
         }
     }

@@ -1,0 +1,11 @@
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/bin/Debug/netcoreapp2.1/Daily_One_Easy.deps.json
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/bin/Debug/netcoreapp2.1/Daily_One_Easy.runtimeconfig.json
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/bin/Debug/netcoreapp2.1/Daily_One_Easy.runtimeconfig.dev.json
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/bin/Debug/netcoreapp2.1/Daily_One_Easy.dll
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/bin/Debug/netcoreapp2.1/Daily_One_Easy.pdb
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/obj/Debug/netcoreapp2.1/Daily_One_Easy.csprojAssemblyReference.cache
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/obj/Debug/netcoreapp2.1/Daily_One_Easy.csproj.CoreCompileInputs.cache
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/obj/Debug/netcoreapp2.1/Daily_One_Easy.AssemblyInfoInputs.cache
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/obj/Debug/netcoreapp2.1/Daily_One_Easy.AssemblyInfo.cs
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/obj/Debug/netcoreapp2.1/Daily_One_Easy.dll
+/Users/wesgarbee/Documents/ACACS/C#_practice/DailyCodingChallenge/Daily_One_Easy/obj/Debug/netcoreapp2.1/Daily_One_Easy.pdb
